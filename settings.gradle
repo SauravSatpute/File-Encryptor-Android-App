@@ -1,0 +1,2 @@
+rootProject.name='FileEncryptor'
+include ':app'

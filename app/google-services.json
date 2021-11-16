@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400462450078",
+    "project_id": "fileencryptor",
+    "storage_bucket": "fileencryptor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400462450078:android:5e2a5a2963b45b12b2da8f",
+        "android_client_info": {
+          "package_name": "com.example.fileencryptor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400462450078-f5us7capeqkhun11h6afues11nlpf932.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyLBJFCU5o6FQ69VUWmDPW8oA4glzhCVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400462450078-f5us7capeqkhun11h6afues11nlpf932.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

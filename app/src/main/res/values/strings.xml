@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileEncryptor</string>
+    <string name="Username"></string>
+    <string name="pick3">Select File</string>
+    <string name="textview"></string>
+    <string name="share_file">Share File</string>
+    <string name="file_encrypt">File Encryptor</string>
+</resources>
